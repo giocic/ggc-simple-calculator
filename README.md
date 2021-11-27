@@ -1,5 +1,5 @@
 # ggc-simple-calculator
-A simple calclulator written in plain Java
+A simple calculator written in plain Java
 
 ## Get started
 
