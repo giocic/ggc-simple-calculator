@@ -1,6 +1,6 @@
 package it.ggc.calculator;
 
-public class CalculatorApp {
+public class App {
 
 	public static void main(String[] args) {
 		

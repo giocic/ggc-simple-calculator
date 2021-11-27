@@ -5,12 +5,12 @@ A simple calclulator written in plain Java
 
 1. Compile the program: from root directory run:
 ```
-javac it\ggc\calculator\CalculatorApp.java
+javac it\ggc\calculator\App.java
 ```
 
 2. Then, to execute it, run this from same directory:
 ```
-javac it\ggc\calculator\CalculatorApp.java
+javac it\ggc\calculator\App.java
 ```
 
 3. Then follow instructions printed to console and **just have fun!**
