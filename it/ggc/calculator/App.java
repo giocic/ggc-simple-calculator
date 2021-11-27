@@ -1,5 +1,9 @@
 package it.ggc.calculator;
 
+/**
+ * This is the entry point of the application.
+ * It checks received arguments, pass them to a Calculator and prints the result. 
+*/
 public class App {
 
 	public static void main(String[] args) {
