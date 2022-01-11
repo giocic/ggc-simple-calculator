@@ -24,7 +24,8 @@ public class App {
 			System.out.println("Result is " + result);
 		} catch(OperatorNotSupportedException onse) {
 			System.out.println("Operator not supported. List of supported operators: ");
-			System.out.println("sum");
+			System.out.println("sum a b");
+			System.out.println("sub a b");
 		}
 		
 	}

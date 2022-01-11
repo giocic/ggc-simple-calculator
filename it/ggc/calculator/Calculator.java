@@ -18,7 +18,11 @@ public class Calculator {
 	   int result = 0;
 		if("sum".equals(operator)) {
 			result = operand1 + operand2;
-		} else {
+		} else if("sub".equals(operator)) {
+			result = operand1 - operand2;
+		} else if("mul".equals(operator)) {
+			result = operand1 *  operand2;
+		}else {
 		   throw new OperatorNotSupportedException();
 		}
 		return result;
