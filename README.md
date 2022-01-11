@@ -17,7 +17,7 @@ javac it\ggc\calculator\App.java
 
 ## Documentation
 
-A standard Javadoc is available in folder **/docs**. If you add or modify code you should always update docs with the following command:
+A standard Javadoc is available in folder **/docs**. If you add or modify code you should always update docs with the following command (from root folder):
 ```
 javadoc -d .\docs it.ggc.calculator
 ```
