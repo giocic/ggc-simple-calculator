@@ -22,6 +22,8 @@ public class Calculator {
 			result = operand1 - operand2;
 		} else if("mul".equals(operator)) {
 			result = operand1 *  operand2;
+		} else if("div".equals(operator)) {
+			result = operand1 /  operand2;
 		}else {
 		   throw new OperatorNotSupportedException();
 		}
